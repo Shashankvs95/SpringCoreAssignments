@@ -1,0 +1,2 @@
+# SpringCoreAssignments
+Spring core assignments
